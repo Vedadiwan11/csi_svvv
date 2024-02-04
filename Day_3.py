@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[3]:
-
+# write a program that checks if a number entered by the user is even or odd and prints the result.
 
 def compute_even_odd(y):
     if y%2==0:
